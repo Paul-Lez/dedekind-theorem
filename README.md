@@ -1,1 +1,3 @@
-This is a copy of [mathlib](https://github.com/leanprover-community/mathlib) on which I am planning (as soon as I find some time!) to store the code I wrote in LEAN this summer to prove the [Dedekind-Kummer theorem](https://kconrad.math.uconn.edu/blurbs/gradnumthy/dedekindf.pdf). 
+This is a copy of [mathlib](https://github.com/leanprover-community/mathlib) on which I am planning (as soon as I find some time!) to store some of the code I wrote in LEAN this summer to prove the [Dedekind-Kummer theorem](https://kconrad.math.uconn.edu/blurbs/gradnumthy/dedekindf.pdf). 
+
+Parts of what I wrote have already made their way into mathlib (e.g. [this](https://github.com/leanprover-community/mathlib/pull/9055), [this](https://github.com/leanprover-community/mathlib/pull/9542) or [this](https://github.com/leanprover-community/mathlib/pull/8668), or are (in the process of being PR'ed)[[https://github.com/leanprover-community/mathlib/pull/9345].
