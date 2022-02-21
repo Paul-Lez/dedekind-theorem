@@ -6,7 +6,7 @@ Parts of what I wrote have already made its way into mathlib :
 - Results about successive quotients of rings : [here](https://github.com/leanprover-community/mathlib/pull/8668) and [here](https://github.com/leanprover-community/mathlib/pull/9649),
 - [Results about UFDs](https://github.com/leanprover-community/mathlib/pull/9108),*
 - Results about multisets : [here](https://github.com/leanprover-community/mathlib/pull/9038) and [here](https://github.com/leanprover-community/mathlib/pull/9038),
-- Results about quotients of various structure : [here](https://github.com/leanprover-community/mathlib/pull/8640) and [here](https://github.com/leanprover-community/mathlib/pull/8617).
+- Results about quotients of various structures : [here](https://github.com/leanprover-community/mathlib/pull/8640) and [here](https://github.com/leanprover-community/mathlib/pull/8617).
 
 More of it is on its way :
 - [Results about divisibility](https://github.com/leanprover-community/mathlib/pull/10941),
